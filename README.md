@@ -25,3 +25,5 @@
 [齐次坐标与二维图形基本几何变换的矩阵推导](https://github.com/IWSR/BLOG/issues/1)
 
 [三维图形基本几何变换的矩阵推导](https://github.com/IWSR/BLOG/issues/2)
+
+[罗德里格旋转公式（轴角法）](https://github.com/IWSR/BLOG/issues/3)
