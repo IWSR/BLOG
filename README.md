@@ -29,3 +29,5 @@
 [三维图形基本几何变换的矩阵推导](https://github.com/IWSR/BLOG/issues/2)
 
 [罗德里格旋转公式（轴角法）](https://github.com/IWSR/BLOG/issues/3)
+
+[欧拉角与万向锁](https://github.com/IWSR/BLOG/issues/4)
