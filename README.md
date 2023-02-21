@@ -24,7 +24,7 @@
 
 ## WSL
 
-[WSL开发环境搭建记录](https://github.com/IWSR/react-code-debug/issues/4)
+[WSL开发环境搭建记录](https://github.com/IWSR/BLOG/issues/6)
 
 ## 随笔
 
