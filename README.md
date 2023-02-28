@@ -35,3 +35,5 @@
 [罗德里格旋转公式（轴角法）](https://github.com/IWSR/BLOG/issues/3)
 
 [欧拉角与万向锁](https://github.com/IWSR/BLOG/issues/4)
+
+[从傅立叶级数到傅立叶变换](https://github.com/IWSR/BLOG/issues/7)
