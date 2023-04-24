@@ -41,3 +41,5 @@
 [欧拉角与万向锁](https://github.com/IWSR/BLOG/issues/4)
 
 [从傅立叶级数到傅立叶变换](https://github.com/IWSR/BLOG/issues/7)
+
+[记一次升级服务器至 https 的过程](https://github.com/IWSR/BLOG/issues/10)
